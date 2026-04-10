@@ -1,0 +1,76 @@
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.AssemblyReference.cache
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfoInputs.cache
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfo.cs
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CoreCompileInputs.cache
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.exe
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.deps.json
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.json
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.dev.json
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.dll
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\ref\QuiddlerClient.dll
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.pdb
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.dll
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.pdb
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CopyComplete
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.dll
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\ref\QuiddlerClient.dll
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.pdb
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.genruntimeconfig.cache
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.exe
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.deps.json
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.json
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.dev.json
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.dll
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\ref\QuiddlerClient.dll
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.pdb
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.dll
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.pdb
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.AssemblyReference.cache
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfoInputs.cache
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfo.cs
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CoreCompileInputs.cache
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CopyComplete
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.dll
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\ref\QuiddlerClient.dll
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.pdb
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.genruntimeconfig.cache
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.exe
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.deps.json
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.json
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.dev.json
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.dll
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\ref\QuiddlerClient.dll
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.pdb
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.dll
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.pdb
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.AssemblyReference.cache
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfoInputs.cache
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfo.cs
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CoreCompileInputs.cache
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CopyComplete
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.dll
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\ref\QuiddlerClient.dll
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.pdb
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.genruntimeconfig.cache
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.exe
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.deps.json
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.json
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.dev.json
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.dll
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.pdb
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.dll
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.pdb
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.AssemblyReference.cache
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfoInputs.cache
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfo.cs
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CoreCompileInputs.cache
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\Quiddler.16520647.Up2Date
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.dll
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\refint\QuiddlerClient.dll
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.pdb
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.genruntimeconfig.cache
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerClient\obj\Debug\net5.0\ref\QuiddlerClient.dll

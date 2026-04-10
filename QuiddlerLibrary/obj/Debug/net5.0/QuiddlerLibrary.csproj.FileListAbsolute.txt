@@ -1,0 +1,60 @@
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.AssemblyReference.cache
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfoInputs.cache
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfo.cs
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.CoreCompileInputs.cache
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.deps.json
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.dll
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\ref\QuiddlerLibrary.dll
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.pdb
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.dll
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\ref\QuiddlerLibrary.dll
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.pdb
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Core.dll
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\$Visual Studio Workspace\Component Programming w.Net\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.ResolveComReference.cache
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.deps.json
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.dll
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\bin\Debug\net5.0\ref\QuiddlerLibrary.dll
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.pdb
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.AssemblyReference.cache
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Core.dll
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.ResolveComReference.cache
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfoInputs.cache
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfo.cs
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.dll
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\ref\QuiddlerLibrary.dll
+C:\Users\kim_s\Downloads\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.pdb
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.deps.json
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.dll
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\bin\Debug\net5.0\ref\QuiddlerLibrary.dll
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.pdb
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.AssemblyReference.cache
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Core.dll
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.ResolveComReference.cache
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfoInputs.cache
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfo.cs
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.dll
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\ref\QuiddlerLibrary.dll
+C:\Users\jfger\Downloads\QuiddlerClientTested\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.pdb
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.deps.json
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.dll
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.pdb
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.AssemblyReference.cache
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Core.dll
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.ResolveComReference.cache
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfoInputs.cache
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfo.cs
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.dll
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\refint\QuiddlerLibrary.dll
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.pdb
+C:\Users\jfger\Desktop\CPA\4-6\Level 5\Component Programming w.NET INFO-5060\Project 1\QuiddlerClient\QuiddlerLibrary\obj\Debug\net5.0\ref\QuiddlerLibrary.dll
